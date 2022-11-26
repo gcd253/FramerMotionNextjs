@@ -1,7 +1,7 @@
 'use client';
 
 const Hero = () => (
-  <section className="px-12 py-8">
+  <section>
     Hero section
   </section>
 );
